@@ -1,0 +1,14 @@
+{
+  "name": "Nexus 持仓智能",
+  "short_name": "Nexus持仓",
+  "description": "跨市场持仓实时监测 · 行情、风险归因与 AI 研究",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060a14",
+  "theme_color": "#060a14",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
